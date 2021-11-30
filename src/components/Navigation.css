@@ -1,0 +1,10 @@
+nav td{
+    padding: 10px;
+    /* margin: 10px; */
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+nav td a{
+   color: #fff;
+   margin: 2 0px;
+}
